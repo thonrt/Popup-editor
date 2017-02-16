@@ -1,0 +1,26 @@
+.ma_date_editor .ma_date_editor_select{
+    width: 100%;
+    background: #E6E6E6;
+    line-height: 20px;
+    text-indent: 0.2em;
+    display: none;
+    height: 0px;
+}
+.ma_date_editor_select .select_item{
+    display: block;
+    padding: 5px 0;
+}
+
+.ma_date_editor_list .ma_date_editor_dropdown {
+    position: relative;
+    width: 100%;
+    padding: 2px 0;
+}
+
+.ma_date_editor_list .item.selected .ic-ctxt-checkmark-sm{
+    margin: 5px 3px 0 0;
+    float: right;
+    top :50%;
+}
+
+
